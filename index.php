@@ -1,4 +1,4 @@
-<?php
+ <?php
 $arrText = "A specific situation; a set of circumstances."; // task # 1 in which it was necessary to display the number of symbols in a line
 echo strlen($arrText);
 echo "<br>";
